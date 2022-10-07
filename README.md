@@ -7,3 +7,4 @@
 Gentoobox is named this way because that it has the same ethos and principles as one of our favourite linux distros: Gentoo Linux.
 Both Gentoobox and Gentoo Linux revolve around the same principle of having customizability and being lightweight.
 
+![Alt text](https://wiki.gentoo.org/images/f/fa/Gentoo3-616x123.png)
